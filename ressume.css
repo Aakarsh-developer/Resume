@@ -1,0 +1,11 @@
+html{
+    background-image: url(./add4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: aliceblue;
+}
+.header img{
+    float: right;
+    min-height: 200px;
+    min-width: 200px;
+}
